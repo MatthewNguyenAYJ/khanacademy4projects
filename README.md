@@ -1,2 +1,2 @@
-# khanacademy4projects
+# khanacademyprojects
 Khan academy projects
