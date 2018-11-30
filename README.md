@@ -1,2 +1,2 @@
 # khanacademyprojects
-Khan academy projects
+Khan academy projects for ICS20. 
